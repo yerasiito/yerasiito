@@ -1,8 +1,10 @@
 <h2><strong>Hi 👋, I'm Yeray López Ramírez ⚡</strong></h2>
 
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm00ZzYwZ3lic2l4a2p0NGxvMHAycGhkZms4MXcyODJnNnBmbmVpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="230">
 
 ### 💬 Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerasiito/)
+<a href="https://www.buymeacoffee.com/yerasiito"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="125" ></a>
 
 ### 🕓 Version Control
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yerasiito/)
@@ -50,5 +52,6 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ### Metrics
+![yerasiito's Stats](https://github-readme-stats.vercel.app/api?username=yerasiito&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
