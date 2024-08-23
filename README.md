@@ -1,8 +1,4 @@
-<div style="background-color: black; padding: 50px;">
-    Hi 👋, I'm
-    <br>
-    <strong style="font-size: 24px;">Yeray López Ramírez ⚡</strong>
-</div>
+<h2><strong>Hi 👋, I'm Yeray López Ramírez ⚡</strong></h2>
 
 
 ### 💬 Social
@@ -52,3 +48,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
+### Metrics
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
