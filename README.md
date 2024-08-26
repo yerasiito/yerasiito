@@ -2,8 +2,6 @@
 
 A developer from Spain
 
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm00ZzYwZ3lic2l4a2p0NGxvMHAycGhkZms4MXcyODJnNnBmbmVpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="230">
-
 ![profile card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yerasiito&theme=tokyonight)
 
 ### 💻 My workspace
@@ -13,6 +11,8 @@ A developer from Spain
 ![RAM](https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 
 ### 💬 Social
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm00ZzYwZ3lic2l4a2p0NGxvMHAycGhkZms4MXcyODJnNnBmbmVpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="230">
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerasiito/)
 <a href="https://www.buymeacoffee.com/yerasiito"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="125" ></a>
 
